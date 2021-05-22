@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ucdavis-312714",
+  "private_key_id": "743b4d509b0930a4b6f8e77a5dc22d02e3f2daf4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6Tv5ki5X6feeU\nwtnWYnpA7+Qdbr51eKD0usJRTrSq3KxDF9GyrVmkwjzwsOZLR99lU3Ss7Q4mzw8Y\nA7IcwcISVgdODXW0YlQigCpKowHsXLwZXpRYxJGR/vIjLB66LQGKEDJm+DHFmmwp\nKHCLn+JBEF5I8MgvAdC5H+ZjFO55z7g6nkBWqoGRBdJKV1JAmQ2SUcr2a1w8wcFe\nOuO6coaAZlMeKlllWhuFyuxDHLHW2dU/cBHHZAe+1v/ihwyQAsHwvelsOgFrSIp7\nc0BzkuDOrlPgPGLMii6NW0XRQVjS0251CvbrMBi7Ks22++/agq8pKzASsiZHQJ8X\nvPcGf6zxAgMBAAECggEACj8T8KBYqZkeZmkST/RvOCkOs6uxNTFi23LLWGtqtkbt\nVmygmiIR3w+BCH/CJVEY8TAA0mM14bPbkaeKYS3VfZVWUNhJU+1ge9vuoizgNd6i\ncwa87pDeV1gyevVkjzqwbfvBZIuxORFAHOyzcTUO3XiH/EekdX61EFQNI1U1tGSR\nlTmm8eIq94E+eT++dUhzc4yzyU82cvg9vKPx580jER56f0z1VatQoCWqbeWdRY9D\nt7yrO2i9vbrT4wanpnCQGiMOhfGIJJ3ofN4ywQT2VDV0h7opT1f8EnqebNvMJu8b\neEONbkP9aI+Ab4BjDDx5H1pctuwvy8Ikvp9/HHXDjQKBgQD7slzXI1kN4fH2+RLQ\nswKJMwcEyYMruAnv+xssBQV6N5caV5RqBWschi/NUFs1h5qv6zOBEHUMt6dySEIV\n0qKuuPj5q68wIXNAzjUrtfR/4OrlHTlpOK3rmBeVpUPzUMFcdpVKn7Vwt2cs0uvB\nP8zMDcaGf25rHraGgZM95VxF0wKBgQC9fm/xvqOFUk2aINYbD6p+gDCQw2kMEb/j\naZYOC+iSJkakocklke/T1FSlbko4umjvwH/gSApu4n8Cu/fUTyz+KxFufEhg9nII\nrjY5WczsSuSw8dbjmERI2AwnJzcdrEPar56hD+HnQmpHTbz+5uJMzjOIFAqBImNg\nAfBmk7wzqwKBgQCBLRpO4/pZkKOhUFWivKzJg2HPyChE8NBQ1PwuDGmyPwOS5m3q\nN9uwKQIxilM1VuJB9SFa1Ppty3fpxEH+dzs9FvvZD4760cAX+3z4cQsJ8oI7klMb\nuJYyOr2n9Mi6ALEsZkPap7r0HXybWajbZoYSF+PStWYTHhEpWSkbdDJ2NwKBgFBk\nf+Gz23QIgtvM6oj4kICyqegAv2Rbc2lrtjmnW7gFfRsDeG70Byd7gZ3duKdwjmyI\n4reoWKTKetASJwZvwMrkQrT5DUv1wlNkdaTHMGVfML7RGzXbt7yfzCggPwXbu73f\nnBEAx/pw9t3hYTlTgtbK9JnaxsoaaMami/M44jOZAoGBAOO3P6xIQ2tYIEpr+ban\nWtY7mQmV37fXGIXkA7IvYIBI4fLhW7kw7hglwfxMun00mnhj78zgjkSdZoYQhXOu\nUt4yPiigxv0Sh4KgW2WXVUnI7w+bLYzb9cbvZs3Ssj3pN62HibFyero8rPIo5lMp\nGwVKyXsm2GiG6e/m25r2igb1\n-----END PRIVATE KEY-----\n",
+  "client_email": "ucdavis@ucdavis-312714.iam.gserviceaccount.com",
+  "client_id": "106949866965755460281",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ucdavis%40ucdavis-312714.iam.gserviceaccount.com"
+}
